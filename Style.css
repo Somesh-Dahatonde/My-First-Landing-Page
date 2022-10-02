@@ -42,6 +42,18 @@
   object-fit: cover;
   opacity: 0.25;
 }
+
+.home-btn {
+
+  height: 40px;
+  width: 130px;
+  margin-top: 15px;
+  /* border-radius: 7px; */
+  color: white;
+  cursor: pointer;
+  border: none;
+  background-color: #3f8ffc;
+}
 .banner .content {
   position: relative;
   text-align: center;
