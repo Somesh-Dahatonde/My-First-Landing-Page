@@ -6,9 +6,13 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-.link{
-  text-decoration:none;}
-  
+/* body{
+    width: 100%;
+} */
+/* .banner{
+    background-image: url(/image/bg.jpg );
+    background-size: auto;
+} */
 
 .banner {
   position: relative;
@@ -54,18 +58,11 @@
   height: 40px;
   width: 130px;
   margin-top: 15px;
-  border-radius: 7px;
+  /* border-radius: 7px; */
   color: white;
   cursor: pointer;
   border: none;
   background-color: #3f8ffc;
-}
-
-.home-btn:hover{
-  background-color: #ff1717;
-  font-weight: 900;
-  font-size: 17px;
-  letter-spacing: 1px;
 }
 .banner .content {
   position: relative;
